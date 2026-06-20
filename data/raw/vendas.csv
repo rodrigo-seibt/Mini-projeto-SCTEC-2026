@@ -1,0 +1,181 @@
+id_venda,data_venda,cliente,produto,categoria,regiao,quantidade,preco_unitario
+1,2022-10-08,Cliente_003,Smartphone,Celulares,Sul,1.0,2899.0
+2,2022-02-08,Cliente_018,Notebook,Computadores,Sul,1.0,
+3,2022-04-28,Cliente_005,Power Bank,Acessórios,Sudeste,,119.0
+4,2022-02-04,Cliente_015,Mouse,Periféricos,Sul,2.0,109.0
+5,2022-08-27,Cliente_003,Baterias Notebook,Acessórios,Sudeste,2.0,299.0
+6,2022-12-28,Cliente_012,Monitor,Computadores,Sudeste,5.0,1399.0
+7,2022-09-23,Cliente_024,Mouse,Periféricos,Sudeste,4.0,109.0
+8,2022-04-21,Cliente_002,Power Bank,Acessórios,Sudeste,7.0,119.0
+9,2022-06-03,Cliente_021,Notebook,Computadores,Sul,6.0,4299.0
+10,2022-04-08,Cliente_019,Power Bank,Acessórios,Sul,3.0,119.0
+11,2022-07-03,Cliente_022,Monitor,Computadores,Sul,3.0,1399.0
+12,DATA INVALIDA,Cliente_024,Smartphone,Celulares,Sudeste,7.0,2899.0
+13,2022-02-14,Cliente_017,Teclado,Periféricos,Nordeste,6.0,
+14,2022-11-17,Cliente_025,Smartphone,Celulares,Centro-Oeste,5.0,2899.0
+15,2022-05-01,Cliente_008,Notebook,Computadores,Sudeste,10.0,4299.0
+16,2022-10-27,Cliente_016,Smartphone,Celulares,Centro-Oeste,2.0,2899.0
+17,2022-08-20,Cliente_007,Tablet,Celulares,Nordeste,5.0,1999.0
+18,2022-06-17,Cliente_018,Baterias Notebook,Acessórios,Sudeste,6.0,299.0
+19,2022-01-21,Cliente_017,Monitor,Computadores,Sudeste,1.0,1399.0
+20,2022-08-24,Cliente_026,Power Bank,Acessórios,Sul,4.0,119.0
+21,2022-09-12,Cliente_021,Smartphone,Celulares,Sudeste,2.0,2899.0
+22,2022-11-04,Cliente_009,Baterias Notebook,Acessórios,Sul,6.0,299.0
+23,2022-11-28,Cliente_003,Smartphone,Celulares,Centro-Oeste,8.0,2899.0
+24,2022-06-16,Cliente_013,Monitor,Computadores,Sudeste,3.0,1399.0
+25,2022-06-24,Cliente_010,Power Bank,Acessórios,Sudeste,5.0,119.0
+26,2022-10-02,Cliente_028,Notebook,Computadores,Sul,10.0,4299.0
+27,2022-01-06,Cliente_029,Notebook,Computadores,Sul,9.0,4299.0
+28,2022-02-22,Cliente_023,Notebook,Computadores,Sudeste,10.0,4299.0
+29,2022-02-21,Cliente_015,Teclado,Periféricos,Sul,7.0,249.0
+30,2022-08-17,Cliente_012,Smartphone,Celulares,Sudeste,2.0,2899.0
+31,2022-10-20,Cliente_018,Power Bank,Acessórios,Sudeste,9.0,119.0
+32,2022-04-04,Cliente_011,Smartphone,Celulares,Sudeste,3.0,2899.0
+33,2022-07-28,Cliente_011,Teclado,Periféricos,Nordeste,9.0,249.0
+34,2022-10-18,Cliente_023,Teclado,Periféricos,Centro-Oeste,3.0,249.0
+35,2022-08-05,Cliente_028,Notebook,Computadores,Sudeste,6.0,4299.0
+36,2022-09-22,Cliente_020,Mouse,Periféricos,Nordeste,4.0,109.0
+37,2022-12-26,Cliente_026,Monitor,Computadores,Centro-Oeste,3.0,1399.0
+38,2022-03-23,Cliente_027,Monitor,Computadores,Centro-Oeste,5.0,1399.0
+39,2022-11-28,Cliente_028,Mouse,Periféricos,Sudeste,5.0,
+40,2022-09-13,Cliente_029,Teclado,Periféricos,Norte,6.0,249.0
+41,2022-12-09,Cliente_014,Tablet,Celulares,Sul,,1999.0
+42,2022-12-07,Cliente_018,  Smartphone,Celulares,Nordeste,7.0,2899.0
+43,2022-06-22,Cliente_029,Monitor,Computadores,Sudeste,6.0,1399.0
+44,2022-05-23,Cliente_022,Teclado,Periféricos,Nordeste,7.0,249.0
+45,2022-08-13,Cliente_019,Tablet,Celulares,Sul,10.0,
+46,2022-06-22,Cliente_006,Mouse,Periféricos,Nordeste,8.0,109.0
+47,2022-09-20,Cliente_008,Teclado,Periféricos,Nordeste,9.0,249.0
+48,2022-01-16,Cliente_019,Tablet,Celulares,Sudeste,1.0,1999.0
+49,2022-06-05,Cliente_004,Baterias Notebook,Acessórios,Nordeste,8.0,
+50,2022-11-23,Cliente_015,Monitor,Computadores,Sudeste,3.0,1399.0
+51,2022-12-20,Cliente_029,Power Bank,Acessórios,Sul,9.0,119.0
+52,2022-10-16,Cliente_025,Power Bank,Acessórios,Sul,3.0,119.0
+53,2022-06-23,Cliente_005,Monitor,Computadores,Sudeste,5.0,1399.0
+54,2022-10-03,Cliente_027,Baterias Notebook,Acessórios,Sul,3.0,299.0
+55,2022-05-01,Cliente_027,Notebook,Computadores,Sul,10.0,4299.0
+56,2022-04-14,Cliente_024,Monitor,Computadores,Sudeste,8.0,1399.0
+57,2022-12-18,Cliente_021,Power Bank,Acessórios,Sul,,119.0
+58,2022-01-13,Cliente_009,Power Bank,Acessórios,Nordeste,3.0,119.0
+59,2022-11-16,Cliente_021,Baterias Notebook,Acessórios,Sudeste,,299.0
+60,2022-12-07,Cliente_004,Notebook,Computadores,Sul,1.0,4299.0
+61,2022-10-25,Cliente_025,Monitor,Computadores,Nordeste,8.0,1399.0
+62,2022-08-10,Cliente_007,Teclado,Periféricos,Sudeste,2.0,249.0
+63,2022-10-10,Cliente_026,Monitor,Computadores,Sudeste,2.0,1399.0
+64,2022-01-21,Cliente_012,Baterias Notebook,Acessórios,Sul,6.0,299.0
+65,2022-06-24,Cliente_025,Power Bank,Acessórios,Sul,3.0,119.0
+66,2022-04-28,Cliente_025,Baterias Notebook,Acessórios,Sul,10.0,299.0
+67,2022-01-28,Cliente_009,Baterias Notebook,Acessórios,Centro-Oeste,6.0,299.0
+68,2022-01-07,Cliente_023,Teclado,Periféricos,Sul,9.0,249.0
+69,2022-11-03,Cliente_012,Power Bank,Acessórios,Sul,8.0,119.0
+70,2022-12-18,Cliente_004,Mouse,Periféricos,Nordeste,7.0,109.0
+71,2022-10-25,Cliente_019,Mouse,Periféricos,Norte,2.0,109.0
+72,2022-11-10,Cliente_009,  Teclado,Periféricos,Sudeste,2.0,249.0
+73,DATA INVALIDA,Cliente_010,Notebook,Computadores,Sul,9.0,4299.0
+74,2022-03-02,Cliente_016,Power Bank,Acessórios,Sudeste,6.0,119.0
+75,2022-03-19,Cliente_014,Notebook,Computadores,Sul,3.0,4299.0
+76,2022-05-15,Cliente_002,Monitor,Computadores,Sul,9.0,1399.0
+77,2022-09-09,Cliente_001,Smartphone,Celulares,Sul,4.0,2899.0
+78,2022-01-10,Cliente_030,Power Bank,Acessórios,Sudeste,5.0,119.0
+79,2022-02-08,Cliente_006,Monitor,Computadores,Nordeste,7.0,1399.0
+80,2022-02-23,Cliente_015,Teclado,Periféricos,Sudeste,8.0,249.0
+81,2022-10-20,Cliente_019,Notebook,Computadores,Sul,7.0,4299.0
+82,2022-08-25,Cliente_006,Notebook,Computadores,Norte,5.0,4299.0
+83,2022-12-16,Cliente_011,Baterias Notebook,Acessórios,Sul,8.0,299.0
+84,2022-09-13,Cliente_011,Power Bank,Acessórios,Sudeste,5.0,119.0
+85,2022-11-01,Cliente_012,Baterias Notebook,Acessórios,Sul,9.0,299.0
+86,2022-10-07,Cliente_016,Power Bank,Acessórios,Sudeste,8.0,119.0
+87,2022-05-01,Cliente_015,Monitor,Computadores,Centro-Oeste,3.0,1399.0
+88,2022-12-10,Cliente_008,Tablet,Celulares,Sul,8.0,1999.0
+89,2022-03-20,Cliente_026,Tablet,Celulares,Centro-Oeste,7.0,1999.0
+90,2022-04-01,Cliente_016,Mouse,Periféricos,Centro-Oeste,9.0,109.0
+91,2022-07-11,Cliente_007,Power Bank,Acessórios,Norte,9.0,119.0
+92,2022-05-28,Cliente_026,Monitor,Computadores,Sul,10.0,1399.0
+93,2022-12-05,Cliente_015,Tablet,Celulares,Sudeste,8.0,1999.0
+94,2022-10-14,Cliente_009,Power Bank,Acessórios,Sudeste,1.0,119.0
+95,2022-11-28,Cliente_029,Baterias Notebook,Acessórios,Nordeste,2.0,299.0
+96,2022-01-21,Cliente_004,Notebook,Computadores,Nordeste,10.0,4299.0
+97,2022-03-10,Cliente_012,Smartphone,Celulares,Sul,8.0,2899.0
+98,2022-06-22,Cliente_020,Monitor,Computadores,Nordeste,9.0,1399.0
+99,2022-03-15,Cliente_015,Power Bank,Acessórios,Centro-Oeste,10.0,119.0
+100,2022-06-12,Cliente_015,Tablet,Celulares,Nordeste,2.0,1999.0
+101,2022-11-04,Cliente_010,Monitor,Computadores,Sudeste,7.0,1399.0
+102,2022-01-28,Cliente_016,Baterias Notebook,Acessórios,Nordeste,5.0,299.0
+103,2022-09-12,Cliente_025,Teclado,Periféricos,Nordeste,4.0,249.0
+104,2022-12-21,Cliente_005,Tablet,Celulares,Sudeste,,1999.0
+105,2022-10-06,Cliente_017,Teclado,Periféricos,Centro-Oeste,6.0,249.0
+106,2022-12-16,Cliente_015,Tablet,Celulares,Norte,5.0,1999.0
+107,2022-11-24,Cliente_003,Tablet,Celulares,Nordeste,4.0,1999.0
+108,2022-08-15,Cliente_021,Notebook,Computadores,Centro-Oeste,5.0,4299.0
+109,2022-07-20,Cliente_003,Smartphone,Celulares,Sul,4.0,2899.0
+110,2022-09-04,Cliente_004,Power Bank,Acessórios,Sudeste,5.0,119.0
+111,2022-06-22,Cliente_024,Tablet,Celulares,Sudeste,7.0,1999.0
+112,2022-11-20,Cliente_015,Baterias Notebook,Acessórios,Sul,2.0,299.0
+113,2022-02-22,Cliente_009,Monitor,Computadores,Sudeste,6.0,1399.0
+114,2022-02-07,Cliente_008,  Smartphone,Celulares,Norte,8.0,2899.0
+115,2022-11-18,Cliente_005,Monitor,Computadores,Nordeste,2.0,1399.0
+116,2022-11-05,Cliente_028,Notebook,Computadores,Sudeste,5.0,4299.0
+117,2022-11-08,Cliente_014,Notebook,Computadores,Sul,6.0,
+118,2022-06-12,Cliente_002,Smartphone,Celulares,Nordeste,8.0,2899.0
+119,2022-09-01,Cliente_016,Teclado,Periféricos,Nordeste,8.0,249.0
+120,2022-12-11,Cliente_018,Power Bank,Acessórios,Nordeste,2.0,119.0
+121,2022-08-15,Cliente_021,Baterias Notebook,Acessórios,Nordeste,10.0,299.0
+122,2022-06-08,Cliente_011,Monitor,Computadores,Sul,7.0,1399.0
+123,2022-12-22,Cliente_004,Teclado,Periféricos,Nordeste,6.0,249.0
+124,2022-08-19,Cliente_028,Mouse,Periféricos,Nordeste,3.0,109.0
+125,2022-12-20,Cliente_016,Baterias Notebook,Acessórios,Sudeste,1.0,299.0
+126,2022-11-12,Cliente_018,Smartphone,Celulares,Norte,6.0,2899.0
+127,2022-12-27,Cliente_030,Notebook,Computadores,Sudeste,10.0,
+128,2022-11-19,Cliente_003,Notebook,Computadores,Nordeste,3.0,4299.0
+129,2022-06-11,Cliente_020,Monitor,Computadores,Sudeste,7.0,1399.0
+130,2022-03-20,Cliente_020,Notebook,Computadores,Sul,,4299.0
+131,2022-10-04,Cliente_017,Teclado,Periféricos,Nordeste,4.0,249.0
+132,2022-06-20,Cliente_025,Notebook,Computadores,Sudeste,4.0,4299.0
+133,2022-01-24,Cliente_018,Mouse,Periféricos,Nordeste,2.0,109.0
+134,2022-06-24,Cliente_019,Mouse,Periféricos,Sul,,
+135,2022-05-13,Cliente_027,Baterias Notebook,Acessórios,Nordeste,,299.0
+136,2022-06-04,Cliente_010,Mouse,Periféricos,Nordeste,2.0,109.0
+137,2022-11-03,Cliente_012,Monitor,Computadores,Sul,6.0,1399.0
+138,2022-02-09,Cliente_006,Tablet,Celulares,Norte,4.0,1999.0
+139,2022-10-25,Cliente_020,Power Bank,Acessórios,Sudeste,8.0,119.0
+140,2022-06-16,Cliente_017,Mouse,Periféricos,Sudeste,3.0,109.0
+141,2022-01-12,Cliente_020,Power Bank,Acessórios,Sul,8.0,119.0
+142,2022-08-26,Cliente_007,Baterias Notebook,Acessórios,Sudeste,8.0,299.0
+143,2022-03-02,Cliente_003,Power Bank,Acessórios,Sul,9.0,119.0
+144,2022-04-15,Cliente_030,Tablet,Celulares,Sudeste,1.0,1999.0
+145,2022-09-02,Cliente_022,Baterias Notebook,Acessórios,Sul,6.0,299.0
+146,2022-11-11,Cliente_021,Teclado,Periféricos,Nordeste,10.0,249.0
+147,2022-08-03,Cliente_022,Baterias Notebook,Acessórios,Nordeste,3.0,299.0
+148,2022-07-01,Cliente_016,Smartphone,Celulares,Sudeste,7.0,2899.0
+149,2022-01-28,Cliente_017,Tablet,Celulares,Sudeste,3.0,1999.0
+150,2022-02-13,Cliente_029,Mouse,Periféricos,Sudeste,10.0,109.0
+151,2022-06-22,Cliente_026,Power Bank,Acessórios,Sul,1.0,119.0
+152,2022-12-26,Cliente_015,Monitor,Computadores,Sul,5.0,1399.0
+153,2022-07-14,Cliente_009,Teclado,Periféricos,Sudeste,7.0,249.0
+154,2022-08-04,Cliente_006,Power Bank,Acessórios,Sudeste,6.0,119.0
+155,2022-02-08,Cliente_013,Tablet,Celulares,Sul,7.0,1999.0
+156,2022-12-12,Cliente_011,Monitor,Computadores,Nordeste,7.0,1399.0
+157,2022-05-27,Cliente_020,Tablet,Celulares,Sudeste,1.0,1999.0
+158,2022-04-27,Cliente_025,Smartphone,Celulares,Sudeste,1.0,2899.0
+159,2022-01-14,Cliente_016,Teclado,Periféricos,Sul,2.0,249.0
+160,2022-08-23,Cliente_014,Notebook,Computadores,Sudeste,9.0,4299.0
+161,2022-12-03,Cliente_001,Smartphone,Celulares,Sul,9.0,2899.0
+162,2022-09-12,Cliente_024,Power Bank,Acessórios,Nordeste,1.0,
+163,2022-10-11,Cliente_027,Smartphone,Celulares,Nordeste,10.0,2899.0
+164,2022-09-26,Cliente_007,Power Bank,Acessórios,Sudeste,8.0,119.0
+165,2022-05-10,Cliente_025,Monitor,Computadores,Sul,1.0,1399.0
+166,2022-11-02,Cliente_029,Teclado,Periféricos,Sul,6.0,249.0
+167,2022-05-06,Cliente_026,Power Bank,Acessórios,Sudeste,7.0,119.0
+168,2022-06-27,Cliente_010,Baterias Notebook,Acessórios,Sudeste,2.0,299.0
+169,2022-10-12,Cliente_014,Baterias Notebook,Acessórios,Sudeste,3.0,299.0
+170,2022-09-13,Cliente_005,Notebook,Computadores,Nordeste,2.0,4299.0
+171,2022-02-08,Cliente_020,Power Bank,Acessórios,Sudeste,1.0,119.0
+172,2022-05-25,Cliente_009,Power Bank,Acessórios,Sudeste,6.0,119.0
+173,2022-10-16,Cliente_023,Smartphone,Celulares,Sul,1.0,2899.0
+174,2022-03-05,Cliente_003,Teclado,Periféricos,Nordeste,8.0,249.0
+175,2022-10-18,Cliente_030,Mouse,Periféricos,Nordeste,6.0,109.0
+176,2022-07-04,Cliente_012,Tablet,Celulares,Sul,6.0,1999.0
+177,2022-11-18,Cliente_023,Mouse,Periféricos,Nordeste,8.0,109.0
+178,2022-11-03,Cliente_017,Baterias Notebook,Acessórios,Sudeste,7.0,299.0
+179,2022-06-28,Cliente_011,Tablet,Celulares,Centro-Oeste,3.0,1999.0
+180,2022-12-17,Cliente_018,Monitor,Computadores,Sudeste,6.0,1399.0
