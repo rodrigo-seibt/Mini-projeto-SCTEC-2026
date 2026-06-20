@@ -1,0 +1,31 @@
+﻿cliente,total_gasto,n_compras,ticket_medio,produto_favorito,segmento
+Cliente_003,62241.0,8,7780.125,Smartphone,Ouro
+Cliente_012,61810.0,8,7726.25,Monitor,Ouro
+Cliente_025,51881.0,9,5764.555555555556,Smartphone,Ouro
+Cliente_015,51115.0,11,4646.818181818182,Tablet,Ouro
+Cliente_018,49402.0,7,7057.428571428572,Smartphone,Ouro
+Cliente_008,41425.0,3,13808.333333333334,Smartphone,Ouro
+Cliente_006,40870.0,5,8174.0,Monitor,Ouro
+Cliente_011,39508.0,7,5644.0,Monitor,Ouro
+Cliente_002,36616.0,3,12205.333333333334,Smartphone,Ouro
+Cliente_026,36406.0,7,5200.857142857143,Monitor,Ouro
+Cliente_016,33022.0,9,3669.1111111111113,Teclado,Prata
+Cliente_021,32773.0,4,8193.25,Notebook,Prata
+Cliente_020,26842.0,7,3834.5714285714284,Power Bank,Prata
+Cliente_024,25621.0,3,8540.333333333334,Monitor,Prata
+Cliente_028,21822.0,2,10911.0,Mouse,Prata
+Cliente_005,18391.0,3,6130.333333333333,Monitor,Prata
+Cliente_013,18190.0,2,9095.0,Tablet,Prata
+Cliente_009,15413.0,8,1926.625,Power Bank,Prata
+Cliente_007,14908.0,5,2981.6,Power Bank,Prata
+Cliente_029,14141.0,6,2356.8333333333335,Teclado,Prata
+Cliente_014,13794.0,2,6897.0,Notebook,Bronze
+Cliente_017,12306.0,6,2051.0,Teclado,Bronze
+Cliente_001,11596.0,1,11596.0,Smartphone,Bronze
+Cliente_010,11204.0,4,2801.0,Mouse,Bronze
+Cliente_022,8631.0,4,2157.75,Baterias Notebook,Bronze
+Cliente_027,7892.0,2,3946.0,Baterias Notebook,Bronze
+Cliente_004,7151.0,4,1787.75,Teclado,Bronze
+Cliente_023,6759.0,4,1689.75,Teclado,Bronze
+Cliente_030,3248.0,3,1082.6666666666667,Mouse,Bronze
+Cliente_019,2574.0,3,858.0,Power Bank,Bronze
