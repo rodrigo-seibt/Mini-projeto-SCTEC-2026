@@ -1,0 +1,151 @@
+id_venda,data_venda,cliente,produto,categoria,regiao,quantidade,preco_unitario,receita_total,mes,trimestre,ano,mes_nome,dia_semana,faixa_receita_item
+1,2022-10-08,Cliente_003,Smartphone,Celulares,Sul,1,2899.0,2899.0,10,Q4,2022,Outubro,Sábado,Médio Valor
+4,2022-02-04,Cliente_015,Mouse,Periféricos,Sul,2,109.0,218.0,2,Q1,2022,Fevereiro,Sexta,Baixo Valor
+5,2022-08-27,Cliente_003,Baterias Notebook,Acessórios,Sudeste,2,299.0,598.0,8,Q3,2022,Agosto,Sábado,Médio Valor
+6,2022-12-28,Cliente_012,Monitor,Computadores,Sudeste,5,1399.0,6995.0,12,Q4,2022,Dezembro,Quarta,Alto Valor
+7,2022-09-23,Cliente_024,Mouse,Periféricos,Sudeste,4,109.0,436.0,9,Q3,2022,Setembro,Sexta,Baixo Valor
+8,2022-04-21,Cliente_002,Power Bank,Acessórios,Sudeste,7,119.0,833.0,4,Q2,2022,Abril,Quinta,Médio Valor
+10,2022-04-08,Cliente_019,Power Bank,Acessórios,Sul,3,119.0,357.0,4,Q2,2022,Abril,Sexta,Baixo Valor
+11,2022-07-03,Cliente_022,Monitor,Computadores,Sul,3,1399.0,4197.0,7,Q3,2022,Julho,Domingo,Médio Valor
+14,2022-11-17,Cliente_025,Smartphone,Celulares,Centro-Oeste,5,2899.0,14495.0,11,Q4,2022,Novembro,Quinta,Alto Valor
+16,2022-10-27,Cliente_016,Smartphone,Celulares,Centro-Oeste,2,2899.0,5798.0,10,Q4,2022,Outubro,Quinta,Alto Valor
+17,2022-08-20,Cliente_007,Tablet,Celulares,Nordeste,5,1999.0,9995.0,8,Q3,2022,Agosto,Sábado,Alto Valor
+18,2022-06-17,Cliente_018,Baterias Notebook,Acessórios,Sudeste,6,299.0,1794.0,6,Q2,2022,Junho,Sexta,Médio Valor
+19,2022-01-21,Cliente_017,Monitor,Computadores,Sudeste,1,1399.0,1399.0,1,Q1,2022,Janeiro,Sexta,Médio Valor
+20,2022-08-24,Cliente_026,Power Bank,Acessórios,Sul,4,119.0,476.0,8,Q3,2022,Agosto,Quarta,Baixo Valor
+21,2022-09-12,Cliente_021,Smartphone,Celulares,Sudeste,2,2899.0,5798.0,9,Q3,2022,Setembro,Segunda,Alto Valor
+22,2022-11-04,Cliente_009,Baterias Notebook,Acessórios,Sul,6,299.0,1794.0,11,Q4,2022,Novembro,Sexta,Médio Valor
+23,2022-11-28,Cliente_003,Smartphone,Celulares,Centro-Oeste,8,2899.0,23192.0,11,Q4,2022,Novembro,Segunda,Alto Valor
+24,2022-06-16,Cliente_013,Monitor,Computadores,Sudeste,3,1399.0,4197.0,6,Q2,2022,Junho,Quinta,Médio Valor
+25,2022-06-24,Cliente_010,Power Bank,Acessórios,Sudeste,5,119.0,595.0,6,Q2,2022,Junho,Sexta,Médio Valor
+29,2022-02-21,Cliente_015,Teclado,Periféricos,Sul,7,249.0,1743.0,2,Q1,2022,Fevereiro,Segunda,Médio Valor
+30,2022-08-17,Cliente_012,Smartphone,Celulares,Sudeste,2,2899.0,5798.0,8,Q3,2022,Agosto,Quarta,Alto Valor
+31,2022-10-20,Cliente_018,Power Bank,Acessórios,Sudeste,9,119.0,1071.0,10,Q4,2022,Outubro,Quinta,Médio Valor
+32,2022-04-04,Cliente_011,Smartphone,Celulares,Sudeste,3,2899.0,8697.0,4,Q2,2022,Abril,Segunda,Alto Valor
+33,2022-07-28,Cliente_011,Teclado,Periféricos,Nordeste,9,249.0,2241.0,7,Q3,2022,Julho,Quinta,Médio Valor
+34,2022-10-18,Cliente_023,Teclado,Periféricos,Centro-Oeste,3,249.0,747.0,10,Q4,2022,Outubro,Terça,Médio Valor
+36,2022-09-22,Cliente_020,Mouse,Periféricos,Nordeste,4,109.0,436.0,9,Q3,2022,Setembro,Quinta,Baixo Valor
+37,2022-12-26,Cliente_026,Monitor,Computadores,Centro-Oeste,3,1399.0,4197.0,12,Q4,2022,Dezembro,Segunda,Médio Valor
+38,2022-03-23,Cliente_027,Monitor,Computadores,Centro-Oeste,5,1399.0,6995.0,3,Q1,2022,Março,Quarta,Alto Valor
+40,2022-09-13,Cliente_029,Teclado,Periféricos,Norte,6,249.0,1494.0,9,Q3,2022,Setembro,Terça,Médio Valor
+42,2022-12-07,Cliente_018,Smartphone,Celulares,Nordeste,7,2899.0,20293.0,12,Q4,2022,Dezembro,Quarta,Alto Valor
+43,2022-06-22,Cliente_029,Monitor,Computadores,Sudeste,6,1399.0,8394.0,6,Q2,2022,Junho,Quarta,Alto Valor
+44,2022-05-23,Cliente_022,Teclado,Periféricos,Nordeste,7,249.0,1743.0,5,Q2,2022,Maio,Segunda,Médio Valor
+46,2022-06-22,Cliente_006,Mouse,Periféricos,Nordeste,8,109.0,872.0,6,Q2,2022,Junho,Quarta,Médio Valor
+47,2022-09-20,Cliente_008,Teclado,Periféricos,Nordeste,9,249.0,2241.0,9,Q3,2022,Setembro,Terça,Médio Valor
+48,2022-01-16,Cliente_019,Tablet,Celulares,Sudeste,1,1999.0,1999.0,1,Q1,2022,Janeiro,Domingo,Médio Valor
+50,2022-11-23,Cliente_015,Monitor,Computadores,Sudeste,3,1399.0,4197.0,11,Q4,2022,Novembro,Quarta,Médio Valor
+51,2022-12-20,Cliente_029,Power Bank,Acessórios,Sul,9,119.0,1071.0,12,Q4,2022,Dezembro,Terça,Médio Valor
+52,2022-10-16,Cliente_025,Power Bank,Acessórios,Sul,3,119.0,357.0,10,Q4,2022,Outubro,Domingo,Baixo Valor
+53,2022-06-23,Cliente_005,Monitor,Computadores,Sudeste,5,1399.0,6995.0,6,Q2,2022,Junho,Quinta,Alto Valor
+54,2022-10-03,Cliente_027,Baterias Notebook,Acessórios,Sul,3,299.0,897.0,10,Q4,2022,Outubro,Segunda,Médio Valor
+56,2022-04-14,Cliente_024,Monitor,Computadores,Sudeste,8,1399.0,11192.0,4,Q2,2022,Abril,Quinta,Alto Valor
+58,2022-01-13,Cliente_009,Power Bank,Acessórios,Nordeste,3,119.0,357.0,1,Q1,2022,Janeiro,Quinta,Baixo Valor
+60,2022-12-07,Cliente_004,Notebook,Computadores,Sul,1,4299.0,4299.0,12,Q4,2022,Dezembro,Quarta,Médio Valor
+61,2022-10-25,Cliente_025,Monitor,Computadores,Nordeste,8,1399.0,11192.0,10,Q4,2022,Outubro,Terça,Alto Valor
+62,2022-08-10,Cliente_007,Teclado,Periféricos,Sudeste,2,249.0,498.0,8,Q3,2022,Agosto,Quarta,Baixo Valor
+63,2022-10-10,Cliente_026,Monitor,Computadores,Sudeste,2,1399.0,2798.0,10,Q4,2022,Outubro,Segunda,Médio Valor
+64,2022-01-21,Cliente_012,Baterias Notebook,Acessórios,Sul,6,299.0,1794.0,1,Q1,2022,Janeiro,Sexta,Médio Valor
+65,2022-06-24,Cliente_025,Power Bank,Acessórios,Sul,3,119.0,357.0,6,Q2,2022,Junho,Sexta,Baixo Valor
+66,2022-04-28,Cliente_025,Baterias Notebook,Acessórios,Sul,10,299.0,2990.0,4,Q2,2022,Abril,Quinta,Médio Valor
+67,2022-01-28,Cliente_009,Baterias Notebook,Acessórios,Centro-Oeste,6,299.0,1794.0,1,Q1,2022,Janeiro,Sexta,Médio Valor
+68,2022-01-07,Cliente_023,Teclado,Periféricos,Sul,9,249.0,2241.0,1,Q1,2022,Janeiro,Sexta,Médio Valor
+69,2022-11-03,Cliente_012,Power Bank,Acessórios,Sul,8,119.0,952.0,11,Q4,2022,Novembro,Quinta,Médio Valor
+70,2022-12-18,Cliente_004,Mouse,Periféricos,Nordeste,7,109.0,763.0,12,Q4,2022,Dezembro,Domingo,Médio Valor
+71,2022-10-25,Cliente_019,Mouse,Periféricos,Norte,2,109.0,218.0,10,Q4,2022,Outubro,Terça,Baixo Valor
+72,2022-11-10,Cliente_009,Teclado,Periféricos,Sudeste,2,249.0,498.0,11,Q4,2022,Novembro,Quinta,Baixo Valor
+74,2022-03-02,Cliente_016,Power Bank,Acessórios,Sudeste,6,119.0,714.0,3,Q1,2022,Março,Quarta,Médio Valor
+75,2022-03-19,Cliente_014,Notebook,Computadores,Sul,3,4299.0,12897.0,3,Q1,2022,Março,Sábado,Alto Valor
+76,2022-05-15,Cliente_002,Monitor,Computadores,Sul,9,1399.0,12591.0,5,Q2,2022,Maio,Domingo,Alto Valor
+77,2022-09-09,Cliente_001,Smartphone,Celulares,Sul,4,2899.0,11596.0,9,Q3,2022,Setembro,Sexta,Alto Valor
+78,2022-01-10,Cliente_030,Power Bank,Acessórios,Sudeste,5,119.0,595.0,1,Q1,2022,Janeiro,Segunda,Médio Valor
+79,2022-02-08,Cliente_006,Monitor,Computadores,Nordeste,7,1399.0,9793.0,2,Q1,2022,Fevereiro,Terça,Alto Valor
+80,2022-02-23,Cliente_015,Teclado,Periféricos,Sudeste,8,249.0,1992.0,2,Q1,2022,Fevereiro,Quarta,Médio Valor
+82,2022-08-25,Cliente_006,Notebook,Computadores,Norte,5,4299.0,21495.0,8,Q3,2022,Agosto,Quinta,Alto Valor
+83,2022-12-16,Cliente_011,Baterias Notebook,Acessórios,Sul,8,299.0,2392.0,12,Q4,2022,Dezembro,Sexta,Médio Valor
+84,2022-09-13,Cliente_011,Power Bank,Acessórios,Sudeste,5,119.0,595.0,9,Q3,2022,Setembro,Terça,Médio Valor
+85,2022-11-01,Cliente_012,Baterias Notebook,Acessórios,Sul,9,299.0,2691.0,11,Q4,2022,Novembro,Terça,Médio Valor
+86,2022-10-07,Cliente_016,Power Bank,Acessórios,Sudeste,8,119.0,952.0,10,Q4,2022,Outubro,Sexta,Médio Valor
+87,2022-05-01,Cliente_015,Monitor,Computadores,Centro-Oeste,3,1399.0,4197.0,5,Q2,2022,Maio,Domingo,Médio Valor
+88,2022-12-10,Cliente_008,Tablet,Celulares,Sul,8,1999.0,15992.0,12,Q4,2022,Dezembro,Sábado,Alto Valor
+89,2022-03-20,Cliente_026,Tablet,Celulares,Centro-Oeste,7,1999.0,13993.0,3,Q1,2022,Março,Domingo,Alto Valor
+90,2022-04-01,Cliente_016,Mouse,Periféricos,Centro-Oeste,9,109.0,981.0,4,Q2,2022,Abril,Sexta,Médio Valor
+91,2022-07-11,Cliente_007,Power Bank,Acessórios,Norte,9,119.0,1071.0,7,Q3,2022,Julho,Segunda,Médio Valor
+92,2022-05-28,Cliente_026,Monitor,Computadores,Sul,10,1399.0,13990.0,5,Q2,2022,Maio,Sábado,Alto Valor
+93,2022-12-05,Cliente_015,Tablet,Celulares,Sudeste,8,1999.0,15992.0,12,Q4,2022,Dezembro,Segunda,Alto Valor
+94,2022-10-14,Cliente_009,Power Bank,Acessórios,Sudeste,1,119.0,119.0,10,Q4,2022,Outubro,Sexta,Baixo Valor
+95,2022-11-28,Cliente_029,Baterias Notebook,Acessórios,Nordeste,2,299.0,598.0,11,Q4,2022,Novembro,Segunda,Médio Valor
+97,2022-03-10,Cliente_012,Smartphone,Celulares,Sul,8,2899.0,23192.0,3,Q1,2022,Março,Quinta,Alto Valor
+98,2022-06-22,Cliente_020,Monitor,Computadores,Nordeste,9,1399.0,12591.0,6,Q2,2022,Junho,Quarta,Alto Valor
+99,2022-03-15,Cliente_015,Power Bank,Acessórios,Centro-Oeste,10,119.0,1190.0,3,Q1,2022,Março,Terça,Médio Valor
+100,2022-06-12,Cliente_015,Tablet,Celulares,Nordeste,2,1999.0,3998.0,6,Q2,2022,Junho,Domingo,Médio Valor
+101,2022-11-04,Cliente_010,Monitor,Computadores,Sudeste,7,1399.0,9793.0,11,Q4,2022,Novembro,Sexta,Alto Valor
+102,2022-01-28,Cliente_016,Baterias Notebook,Acessórios,Nordeste,5,299.0,1495.0,1,Q1,2022,Janeiro,Sexta,Médio Valor
+103,2022-09-12,Cliente_025,Teclado,Periféricos,Nordeste,4,249.0,996.0,9,Q3,2022,Setembro,Segunda,Médio Valor
+105,2022-10-06,Cliente_017,Teclado,Periféricos,Centro-Oeste,6,249.0,1494.0,10,Q4,2022,Outubro,Quinta,Médio Valor
+106,2022-12-16,Cliente_015,Tablet,Celulares,Norte,5,1999.0,9995.0,12,Q4,2022,Dezembro,Sexta,Alto Valor
+107,2022-11-24,Cliente_003,Tablet,Celulares,Nordeste,4,1999.0,7996.0,11,Q4,2022,Novembro,Quinta,Alto Valor
+108,2022-08-15,Cliente_021,Notebook,Computadores,Centro-Oeste,5,4299.0,21495.0,8,Q3,2022,Agosto,Segunda,Alto Valor
+109,2022-07-20,Cliente_003,Smartphone,Celulares,Sul,4,2899.0,11596.0,7,Q3,2022,Julho,Quarta,Alto Valor
+110,2022-09-04,Cliente_004,Power Bank,Acessórios,Sudeste,5,119.0,595.0,9,Q3,2022,Setembro,Domingo,Médio Valor
+111,2022-06-22,Cliente_024,Tablet,Celulares,Sudeste,7,1999.0,13993.0,6,Q2,2022,Junho,Quarta,Alto Valor
+112,2022-11-20,Cliente_015,Baterias Notebook,Acessórios,Sul,2,299.0,598.0,11,Q4,2022,Novembro,Domingo,Médio Valor
+113,2022-02-22,Cliente_009,Monitor,Computadores,Sudeste,6,1399.0,8394.0,2,Q1,2022,Fevereiro,Terça,Alto Valor
+114,2022-02-07,Cliente_008,Smartphone,Celulares,Norte,8,2899.0,23192.0,2,Q1,2022,Fevereiro,Segunda,Alto Valor
+115,2022-11-18,Cliente_005,Monitor,Computadores,Nordeste,2,1399.0,2798.0,11,Q4,2022,Novembro,Sexta,Médio Valor
+116,2022-11-05,Cliente_028,Notebook,Computadores,Sudeste,5,4299.0,21495.0,11,Q4,2022,Novembro,Sábado,Alto Valor
+118,2022-06-12,Cliente_002,Smartphone,Celulares,Nordeste,8,2899.0,23192.0,6,Q2,2022,Junho,Domingo,Alto Valor
+119,2022-09-01,Cliente_016,Teclado,Periféricos,Nordeste,8,249.0,1992.0,9,Q3,2022,Setembro,Quinta,Médio Valor
+120,2022-12-11,Cliente_018,Power Bank,Acessórios,Nordeste,2,119.0,238.0,12,Q4,2022,Dezembro,Domingo,Baixo Valor
+121,2022-08-15,Cliente_021,Baterias Notebook,Acessórios,Nordeste,10,299.0,2990.0,8,Q3,2022,Agosto,Segunda,Médio Valor
+122,2022-06-08,Cliente_011,Monitor,Computadores,Sul,7,1399.0,9793.0,6,Q2,2022,Junho,Quarta,Alto Valor
+123,2022-12-22,Cliente_004,Teclado,Periféricos,Nordeste,6,249.0,1494.0,12,Q4,2022,Dezembro,Quinta,Médio Valor
+124,2022-08-19,Cliente_028,Mouse,Periféricos,Nordeste,3,109.0,327.0,8,Q3,2022,Agosto,Sexta,Baixo Valor
+125,2022-12-20,Cliente_016,Baterias Notebook,Acessórios,Sudeste,1,299.0,299.0,12,Q4,2022,Dezembro,Terça,Baixo Valor
+126,2022-11-12,Cliente_018,Smartphone,Celulares,Norte,6,2899.0,17394.0,11,Q4,2022,Novembro,Sábado,Alto Valor
+128,2022-11-19,Cliente_003,Notebook,Computadores,Nordeste,3,4299.0,12897.0,11,Q4,2022,Novembro,Sábado,Alto Valor
+129,2022-06-11,Cliente_020,Monitor,Computadores,Sudeste,7,1399.0,9793.0,6,Q2,2022,Junho,Sábado,Alto Valor
+131,2022-10-04,Cliente_017,Teclado,Periféricos,Nordeste,4,249.0,996.0,10,Q4,2022,Outubro,Terça,Médio Valor
+132,2022-06-20,Cliente_025,Notebook,Computadores,Sudeste,4,4299.0,17196.0,6,Q2,2022,Junho,Segunda,Alto Valor
+133,2022-01-24,Cliente_018,Mouse,Periféricos,Nordeste,2,109.0,218.0,1,Q1,2022,Janeiro,Segunda,Baixo Valor
+136,2022-06-04,Cliente_010,Mouse,Periféricos,Nordeste,2,109.0,218.0,6,Q2,2022,Junho,Sábado,Baixo Valor
+137,2022-11-03,Cliente_012,Monitor,Computadores,Sul,6,1399.0,8394.0,11,Q4,2022,Novembro,Quinta,Alto Valor
+138,2022-02-09,Cliente_006,Tablet,Celulares,Norte,4,1999.0,7996.0,2,Q1,2022,Fevereiro,Quarta,Alto Valor
+139,2022-10-25,Cliente_020,Power Bank,Acessórios,Sudeste,8,119.0,952.0,10,Q4,2022,Outubro,Terça,Médio Valor
+140,2022-06-16,Cliente_017,Mouse,Periféricos,Sudeste,3,109.0,327.0,6,Q2,2022,Junho,Quinta,Baixo Valor
+141,2022-01-12,Cliente_020,Power Bank,Acessórios,Sul,8,119.0,952.0,1,Q1,2022,Janeiro,Quarta,Médio Valor
+142,2022-08-26,Cliente_007,Baterias Notebook,Acessórios,Sudeste,8,299.0,2392.0,8,Q3,2022,Agosto,Sexta,Médio Valor
+143,2022-03-02,Cliente_003,Power Bank,Acessórios,Sul,9,119.0,1071.0,3,Q1,2022,Março,Quarta,Médio Valor
+144,2022-04-15,Cliente_030,Tablet,Celulares,Sudeste,1,1999.0,1999.0,4,Q2,2022,Abril,Sexta,Médio Valor
+145,2022-09-02,Cliente_022,Baterias Notebook,Acessórios,Sul,6,299.0,1794.0,9,Q3,2022,Setembro,Sexta,Médio Valor
+146,2022-11-11,Cliente_021,Teclado,Periféricos,Nordeste,10,249.0,2490.0,11,Q4,2022,Novembro,Sexta,Médio Valor
+147,2022-08-03,Cliente_022,Baterias Notebook,Acessórios,Nordeste,3,299.0,897.0,8,Q3,2022,Agosto,Quarta,Médio Valor
+148,2022-07-01,Cliente_016,Smartphone,Celulares,Sudeste,7,2899.0,20293.0,7,Q3,2022,Julho,Sexta,Alto Valor
+149,2022-01-28,Cliente_017,Tablet,Celulares,Sudeste,3,1999.0,5997.0,1,Q1,2022,Janeiro,Sexta,Alto Valor
+150,2022-02-13,Cliente_029,Mouse,Periféricos,Sudeste,10,109.0,1090.0,2,Q1,2022,Fevereiro,Domingo,Médio Valor
+151,2022-06-22,Cliente_026,Power Bank,Acessórios,Sul,1,119.0,119.0,6,Q2,2022,Junho,Quarta,Baixo Valor
+152,2022-12-26,Cliente_015,Monitor,Computadores,Sul,5,1399.0,6995.0,12,Q4,2022,Dezembro,Segunda,Alto Valor
+153,2022-07-14,Cliente_009,Teclado,Periféricos,Sudeste,7,249.0,1743.0,7,Q3,2022,Julho,Quinta,Médio Valor
+154,2022-08-04,Cliente_006,Power Bank,Acessórios,Sudeste,6,119.0,714.0,8,Q3,2022,Agosto,Quinta,Médio Valor
+155,2022-02-08,Cliente_013,Tablet,Celulares,Sul,7,1999.0,13993.0,2,Q1,2022,Fevereiro,Terça,Alto Valor
+156,2022-12-12,Cliente_011,Monitor,Computadores,Nordeste,7,1399.0,9793.0,12,Q4,2022,Dezembro,Segunda,Alto Valor
+157,2022-05-27,Cliente_020,Tablet,Celulares,Sudeste,1,1999.0,1999.0,5,Q2,2022,Maio,Sexta,Médio Valor
+158,2022-04-27,Cliente_025,Smartphone,Celulares,Sudeste,1,2899.0,2899.0,4,Q2,2022,Abril,Quarta,Médio Valor
+159,2022-01-14,Cliente_016,Teclado,Periféricos,Sul,2,249.0,498.0,1,Q1,2022,Janeiro,Sexta,Baixo Valor
+164,2022-09-26,Cliente_007,Power Bank,Acessórios,Sudeste,8,119.0,952.0,9,Q3,2022,Setembro,Segunda,Médio Valor
+165,2022-05-10,Cliente_025,Monitor,Computadores,Sul,1,1399.0,1399.0,5,Q2,2022,Maio,Terça,Médio Valor
+166,2022-11-02,Cliente_029,Teclado,Periféricos,Sul,6,249.0,1494.0,11,Q4,2022,Novembro,Quarta,Médio Valor
+167,2022-05-06,Cliente_026,Power Bank,Acessórios,Sudeste,7,119.0,833.0,5,Q2,2022,Maio,Sexta,Médio Valor
+168,2022-06-27,Cliente_010,Baterias Notebook,Acessórios,Sudeste,2,299.0,598.0,6,Q2,2022,Junho,Segunda,Médio Valor
+169,2022-10-12,Cliente_014,Baterias Notebook,Acessórios,Sudeste,3,299.0,897.0,10,Q4,2022,Outubro,Quarta,Médio Valor
+170,2022-09-13,Cliente_005,Notebook,Computadores,Nordeste,2,4299.0,8598.0,9,Q3,2022,Setembro,Terça,Alto Valor
+171,2022-02-08,Cliente_020,Power Bank,Acessórios,Sudeste,1,119.0,119.0,2,Q1,2022,Fevereiro,Terça,Baixo Valor
+172,2022-05-25,Cliente_009,Power Bank,Acessórios,Sudeste,6,119.0,714.0,5,Q2,2022,Maio,Quarta,Médio Valor
+173,2022-10-16,Cliente_023,Smartphone,Celulares,Sul,1,2899.0,2899.0,10,Q4,2022,Outubro,Domingo,Médio Valor
+174,2022-03-05,Cliente_003,Teclado,Periféricos,Nordeste,8,249.0,1992.0,3,Q1,2022,Março,Sábado,Médio Valor
+175,2022-10-18,Cliente_030,Mouse,Periféricos,Nordeste,6,109.0,654.0,10,Q4,2022,Outubro,Terça,Médio Valor
+176,2022-07-04,Cliente_012,Tablet,Celulares,Sul,6,1999.0,11994.0,7,Q3,2022,Julho,Segunda,Alto Valor
+177,2022-11-18,Cliente_023,Mouse,Periféricos,Nordeste,8,109.0,872.0,11,Q4,2022,Novembro,Sexta,Médio Valor
+178,2022-11-03,Cliente_017,Baterias Notebook,Acessórios,Sudeste,7,299.0,2093.0,11,Q4,2022,Novembro,Quinta,Médio Valor
+179,2022-06-28,Cliente_011,Tablet,Celulares,Centro-Oeste,3,1999.0,5997.0,6,Q2,2022,Junho,Terça,Alto Valor
+180,2022-12-17,Cliente_018,Monitor,Computadores,Sudeste,6,1399.0,8394.0,12,Q4,2022,Dezembro,Sábado,Alto Valor
