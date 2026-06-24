@@ -96,4 +96,4 @@ dataview/
 - GitHub para versionamento
 
 ## Vídeo de demonstração
-*(link será adicionado após a gravação)*
+- https://www.loom.com/share/e2a79bb1c2cc428ab8bb43ec829c4e14
